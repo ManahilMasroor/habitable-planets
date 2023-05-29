@@ -1,5 +1,5 @@
 # habitable-planets
-Finding Habitable Planets by parsing Kepler's list of exoplanets on Node.Js
+Finding Habitable Planets by parsing Kepler's list of exoplanets using Node.Js
 
 # Built With:
 Node.JS
